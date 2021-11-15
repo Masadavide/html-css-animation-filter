@@ -52,3 +52,12 @@
     filter: grayscale(100%);
 }
 
+
+.ex-7-img{
+    transition: all 1s ease 0s;
+}
+
+.ex-7-img:hover{
+    filter: blur(5px) sepia(100%);
+    
+}
