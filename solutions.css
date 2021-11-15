@@ -70,3 +70,14 @@
     filter:hue-rotate(90deg) blur(5px);
     border-radius: 20px;
 }
+
+
+.ex-9-img{
+    transition: all 1s ease 0s;
+}
+
+.ex-9-img:hover{
+    filter: invert(100%) opacity(50%);
+    border-radius: 10px;
+    width: 200px;
+}
