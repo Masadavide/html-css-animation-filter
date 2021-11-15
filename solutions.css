@@ -32,3 +32,18 @@
     opacity: 0;
 }
 
+
+.ex-5-square{
+    transition: all 1s ease 0s;
+}
+
+.ex-5-square:hover{
+    width: 100px;
+    height: 100px;
+}
+
+.ex-5-square:active{
+    width: 30px;
+    height: 30px;
+}
+
