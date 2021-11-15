@@ -167,7 +167,7 @@
 
 
 .ex-13-button:hover .ex-13-top-white{
-    animation: rotatetop 1s linear;
+    animation: rotatetop 3s linear;
     animation-iteration-count: infinite;
 }
 
@@ -195,7 +195,7 @@
 }
 
 .ex-13-button:hover .ex-13-bottom-white{
-    animation: rotatebottom 1s linear;
+    animation: rotatebottom 3s linear;
     animation-iteration-count: infinite;
 }
 
